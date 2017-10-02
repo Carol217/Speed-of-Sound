@@ -1,7 +1,8 @@
-#
-#
-#
-#
+#Carol Pan
+#SoftDev1 pd7
+#HW6 - ECHO Echo echo
+#2017-10-03
+
 from flask import Flask, render_template, request
 app = Flask(__name__)
 
